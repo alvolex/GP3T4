@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodbanklookup.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodbanklookup.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\datatable.generated.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\fmodbanklookup.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

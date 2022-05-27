@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodport.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodport.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\fmodasset.generated.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\fmodport.generated.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmodstudiomodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

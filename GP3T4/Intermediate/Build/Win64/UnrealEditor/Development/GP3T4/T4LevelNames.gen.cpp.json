@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\t4levelnames.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\gp3t4editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\development\\gp3t4\\definitions.gp3t4.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\levels\\t4levelnames.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

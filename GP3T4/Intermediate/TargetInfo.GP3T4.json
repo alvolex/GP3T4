@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GP3T4",
+			"Path": "D:\\Perforce\\alexander.volkers_GP3_PleaseWork\\GP3T4\\Source\\GP3T4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GP3T4Editor",
+			"Path": "D:\\Perforce\\alexander.volkers_GP3_PleaseWork\\GP3T4\\Source\\GP3T4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

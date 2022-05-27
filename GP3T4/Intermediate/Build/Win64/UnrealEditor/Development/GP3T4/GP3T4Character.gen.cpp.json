@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\gp3t4character.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\gp3t4editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\development\\gp3t4\\definitions.gp3t4.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\gp3t4character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\interfaces\\isplayercharacter.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\isplayercharacter.generated.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\interactables\\t4interactable.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\interfaces\\isinteractable.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\isinteractable.generated.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\t4interactable.generated.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\gp3t4character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

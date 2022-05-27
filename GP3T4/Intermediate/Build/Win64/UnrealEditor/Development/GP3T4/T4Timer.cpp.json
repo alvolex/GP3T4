@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\t4timer.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\gp3t4editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\development\\gp3t4\\definitions.gp3t4.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\t4timer.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\t4timer.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\textrendercomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\textrendercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

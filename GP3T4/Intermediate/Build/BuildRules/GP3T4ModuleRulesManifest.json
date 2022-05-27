@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Perforce\\alexander.volkers_GP3_PleaseWork\\GP3T4\\Source\\GP3T4\\GP3T4.Build.cs",
+		"D:\\Perforce\\alexander.volkers_GP3_PleaseWork\\GP3T4\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
+		"D:\\Perforce\\alexander.volkers_GP3_PleaseWork\\GP3T4\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
+		"D:\\Perforce\\alexander.volkers_GP3_PleaseWork\\GP3T4\\Source\\GP3T4.Target.cs",
+		"D:\\Perforce\\alexander.volkers_GP3_PleaseWork\\GP3T4\\Source\\GP3T4Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

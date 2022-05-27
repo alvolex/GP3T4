@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\gp3t4projectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\gp3t4editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\development\\gp3t4\\definitions.gp3t4.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\gp3t4projectile.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\gp3t4projectile.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\projectilemovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\interfaces\\t4canbehit.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\t4canbehit.generated.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\source\\gp3t4\\planet\\t4planet.h",
+            "d:\\perforce\\alexander.volkers_gp3_pleasework\\gp3t4\\intermediate\\build\\win64\\unrealeditor\\inc\\gp3t4\\t4planet.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
